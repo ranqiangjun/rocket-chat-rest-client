@@ -1,5 +1,7 @@
 # Rocket Chat REST API client in PHP
 
+Cloned from fab1en/rocket-chat-rest-client
+
 Use this client if you need to connect to Rocket Chat with a software written
 in PHP, such as WordPress or Drupal.
 
